@@ -1,0 +1,16 @@
+Black
+5
+2
+Grey
+Red
+Mucous
+White
+Brown
+Orange
+Yellow
+3
+Green
+1
+Specks
+4
+Misc
